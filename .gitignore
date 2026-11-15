@@ -19,3 +19,6 @@ public/fonts
 !.env.example
 audit/
 *.log
+
+# Local film experiments require untracked audit source frames
+scripts/video/
