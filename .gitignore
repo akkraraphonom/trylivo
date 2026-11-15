@@ -1,0 +1,21 @@
+node_modules
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+.env*.local
+
+# copied from the Framer mirror by scripts/copy-assets.mjs
+public/images
+public/videos
+public/fonts
+
+.open-next/
+.wrangler/
+
+# Local builds, credentials and review artifacts
+.next*/
+.env*
+!.env.example
+audit/
+*.log

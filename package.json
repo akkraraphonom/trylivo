@@ -1,0 +1,33 @@
+{
+  "name": "ecom-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "assets": "node scripts/copy-assets.mjs",
+    "predev": "node scripts/copy-assets.mjs --if-missing",
+    "dev": "next dev",
+    "prebuild": "node scripts/copy-assets.mjs --if-missing && node scripts/prepare-card-images.mjs",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "build:cloudflare": "opennextjs-cloudflare build",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
+  },
+  "dependencies": {
+    "@decartai/sdk": "^0.2.14",
+    "lenis": "^1.3.0",
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@opennextjs/cloudflare": "^1.20.17",
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^4.162.0"
+  }
+}
