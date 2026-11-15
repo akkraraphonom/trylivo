@@ -1,0 +1,1315 @@
+[
+  {
+    "id": "Bq6w7z5DY",
+    "title": "Lightweight Jacket",
+    "slug": "lightweight-jacket",
+    "price": 132.30,
+    "comparePrice": 153.30,
+    "images": [
+      {
+        "src": "/images/hpmQuhSnpoARXKHECQJ3D1iidg.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/NKaCnHr2qphGyeeZ25p5hfAlHM.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/5y0hJFfVPOLEwUHZlkq3NR3StuU.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/0Dj10lmBittdJAPA0eEiWTEAmo.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Stone Taupe",
+          "Charcoal Gray"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Stone Taupe / S",
+        "id": "52515331277111",
+        "image": 1
+      },
+      {
+        "title": "Stone Taupe / M",
+        "id": "52515331309879",
+        "image": 1
+      },
+      {
+        "title": "Stone Taupe / L",
+        "id": "52515331342647",
+        "image": 1
+      },
+      {
+        "title": "Stone Taupe / XL",
+        "id": "52513513963831",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / S",
+        "id": "52515331375415",
+        "image": 3
+      },
+      {
+        "title": "Charcoal Gray / M",
+        "id": "52515331408183",
+        "image": 3
+      },
+      {
+        "title": "Charcoal Gray / L",
+        "id": "52515331440951",
+        "image": 3
+      },
+      {
+        "title": "Charcoal Gray / XL",
+        "id": "52515331473719",
+        "image": 3
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A versatile lightweight jacket designed for everyday comfort. Features a clean silhouette, premium construction, and easy layering for any season. "
+        ]
+      }
+    ],
+    "excerpt": "A versatile lightweight jacket designed for everyday comfort. Features a clean silhouette, premium construction, and easy layering for any season. ",
+    "collections": [
+      "Men",
+      "New Arrivals",
+      "Best Sellers"
+    ],
+    "type": "Jacket",
+    "tags": [
+      "Bestseller",
+      "Casual",
+      "Everyday",
+      "Jacket",
+      "Lightweight",
+      "Outerwear"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "rWrgEkUdZ",
+    "title": "Soft Knit Sweater",
+    "slug": "soft-knit-sweater",
+    "price": 90.30,
+    "comparePrice": 111.30,
+    "images": [
+      {
+        "src": "/images/G96HGNvdcGA3B7bURxKUdDZ1Fg.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/P4YAcv9ko4FjOwxyUoLEikWBptE.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Brown"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Brown / S",
+        "id": "52515381510455",
+        "image": 1
+      },
+      {
+        "title": "Brown / M",
+        "id": "52515381543223",
+        "image": 1
+      },
+      {
+        "title": "Brown / L",
+        "id": "52515381575991",
+        "image": 1
+      },
+      {
+        "title": "Brown / XL",
+        "id": "52474352206135",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A timeless knit sweater designed with a soft texture and relaxed fit for year-round styling."
+        ]
+      }
+    ],
+    "excerpt": "A timeless knit sweater designed with a soft texture and relaxed fit for year-round styling.",
+    "collections": [
+      "Women",
+      "Best Sellers"
+    ],
+    "type": "Sweater",
+    "tags": [
+      "Cozy",
+      "Everyday",
+      "Knitwear",
+      "Soft",
+      "Sweater"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "eFV5QJdOQ",
+    "title": "Kids Everyday Hoodie",
+    "slug": "kids-everyday-hoodie",
+    "price": 41.30,
+    "comparePrice": 55.30,
+    "images": [
+      {
+        "src": "/images/cMQj4QjMX5VobEoIS99R3rXZ4.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/qMXGQ1i2C8CA9aNGO2EHutboqU.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/LhNdT4eBcxVSGjlk1mrqjlIFA0.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/AjXBBm1bLsRV8nd8xanpf3KEyk.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/uUhniWoF1Nvp55CLPBv4al1DV1I.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/CNaGFVULrUCrsuUDAUKXgQFh4c4.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Blue",
+          "Dark Green",
+          "Red"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "4Y",
+          "6Y",
+          "8Y",
+          "10Y"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Blue / 4Y",
+        "id": "52474353320247",
+        "image": 1
+      },
+      {
+        "title": "Blue / 6Y",
+        "id": "52474353418551",
+        "image": 1
+      },
+      {
+        "title": "Blue / 8Y",
+        "id": "52474353516855",
+        "image": 1
+      },
+      {
+        "title": "Blue / 10Y",
+        "id": "52474353615159",
+        "image": 1
+      },
+      {
+        "title": "Dark Green / 4Y",
+        "id": "52515411755319",
+        "image": 3
+      },
+      {
+        "title": "Dark Green / 6Y",
+        "id": "52515411788087",
+        "image": 3
+      },
+      {
+        "title": "Dark Green / 8Y",
+        "id": "52515411820855",
+        "image": 3
+      },
+      {
+        "title": "Dark Green / 10Y",
+        "id": "52515411853623",
+        "image": 3
+      },
+      {
+        "title": "Red / 4Y",
+        "id": "52515411886391",
+        "image": 5
+      },
+      {
+        "title": "Red / 6Y",
+        "id": "52515411919159",
+        "image": 5
+      },
+      {
+        "title": "Red / 8Y",
+        "id": "52515411951927",
+        "image": 5
+      },
+      {
+        "title": "Red / 10Y",
+        "id": "52515411984695",
+        "image": 5
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A comfortable everyday hoodie made from soft fleece fabric and designed for active kids."
+        ]
+      }
+    ],
+    "excerpt": "A comfortable everyday hoodie made from soft fleece fabric and designed for active kids.",
+    "collections": [
+      "Best Sellers",
+      "Kid",
+      "Seasonal Drop"
+    ],
+    "type": "Hoodie",
+    "tags": [
+      "Casual",
+      "Comfortable",
+      "Cotton",
+      "Hoodie",
+      "Kids"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "ZVUhslwYq",
+    "title": "Relaxed Fit Cardigan",
+    "slug": "relaxed-fit-cardigan",
+    "price": 83.30,
+    "comparePrice": 104.30,
+    "images": [
+      {
+        "src": "/images/63sXDIurCSpT8o2gjHSxExJ2wE.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/a6TVXBjo2pWznFNuoxC272fsqk4.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/HkSejHUfzDqtUPU4lTdk2ETnMg.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/DbQuul4RDPK6Wq8YFtxmBMG1gDw.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Beige",
+          "Sage Green"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Beige / S",
+        "id": "52474358268215",
+        "image": 1
+      },
+      {
+        "title": "Beige / M",
+        "id": "52474358333751",
+        "image": 1
+      },
+      {
+        "title": "Beige / L",
+        "id": "52474358300983",
+        "image": 1
+      },
+      {
+        "title": "Beige / XL",
+        "id": "52474358366519",
+        "image": 1
+      },
+      {
+        "title": "Sage Green / S",
+        "id": "52515380035895",
+        "image": 3
+      },
+      {
+        "title": "Sage Green / M",
+        "id": "52515380068663",
+        "image": 3
+      },
+      {
+        "title": "Sage Green / L",
+        "id": "52515380101431",
+        "image": 3
+      },
+      {
+        "title": "Sage Green / XL",
+        "id": "52515380134199",
+        "image": 3
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A lightweight cardigan featuring a relaxed silhouette and versatile styling options."
+        ]
+      }
+    ],
+    "excerpt": "A lightweight cardigan featuring a relaxed silhouette and versatile styling options.",
+    "collections": [
+      "Women",
+      "Best Sellers",
+      "Seasonal Drop"
+    ],
+    "type": "Cardigan",
+    "tags": [
+      "Cardigan",
+      "Casual",
+      "Fashion",
+      "Knitwear",
+      "Layering"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "GBgF7tqR9",
+    "title": "Kids Graphic T-Shirt",
+    "slug": "kids-graphic-t-shirt",
+    "price": 24.50,
+    "comparePrice": 34.30,
+    "images": [
+      {
+        "src": "/images/ZWLmrXkKz0o7qLd2ZRrVMxL4IE.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/giLmjBOYmnE1uXUx5zHo6nxvOU.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/WW7IQhhCpUdt9o6UT8vhgLvo3s4.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Blue",
+          "Beige"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "4Y",
+          "6Y",
+          "8Y",
+          "10Y"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Blue / 4Y",
+        "id": "52474358890807",
+        "image": 1
+      },
+      {
+        "title": "Blue / 6Y",
+        "id": "52474358923575",
+        "image": 1
+      },
+      {
+        "title": "Blue / 8Y",
+        "id": "52474358956343",
+        "image": 1
+      },
+      {
+        "title": "Blue / 10Y",
+        "id": "52474358989111",
+        "image": 1
+      },
+      {
+        "title": "Beige / 4Y",
+        "id": "52515418997047",
+        "image": 3
+      },
+      {
+        "title": "Beige / 6Y",
+        "id": "52515419029815",
+        "image": 3
+      },
+      {
+        "title": "Beige / 8Y",
+        "id": "52515419062583",
+        "image": 3
+      },
+      {
+        "title": "Beige / 10Y",
+        "id": "52515419095351",
+        "image": 3
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A lightweight graphic t-shirt featuring playful artwork and breathable cotton fabric."
+        ]
+      }
+    ],
+    "excerpt": "A lightweight graphic t-shirt featuring playful artwork and breathable cotton fabric.",
+    "collections": [
+      "Best Sellers",
+      "Kid"
+    ],
+    "type": "T-Shirt",
+    "tags": [
+      "Cotton",
+      "Fun",
+      "Graphic",
+      "Kids",
+      "T-Shirt"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "cKPZu2_Tf",
+    "title": "Classic Hoodie",
+    "slug": "classic-hoodie",
+    "price": 69.30,
+    "comparePrice": 90.30,
+    "images": [
+      {
+        "src": "/images/qmBZIpvlzCodNZIh18j0YMwiDs.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/7IcwE6MrNKvfUKoRD1rNgeTyFsQ.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/CPeCbxUxMnG1JC85LQSbZoOLJE.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/17Rh7CVxWdtU2GQ3HNdfJjXFKo.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/rpF0GIXLBTZdk2w55PY35ukI.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/XTsUppMcCsZP710tJjvqc8960.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Black",
+          "Gray",
+          "Dark Green"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Black / S",
+        "id": "52474414498103",
+        "image": 1
+      },
+      {
+        "title": "Black / M",
+        "id": "52474414432567",
+        "image": 1
+      },
+      {
+        "title": "Black / L",
+        "id": "52474414465335",
+        "image": 1
+      },
+      {
+        "title": "Black / XL",
+        "id": "52474414399799",
+        "image": 1
+      },
+      {
+        "title": "Gray / S",
+        "id": "52474414629175",
+        "image": 3
+      },
+      {
+        "title": "Gray / M",
+        "id": "52474414563639",
+        "image": 3
+      },
+      {
+        "title": "Gray / L",
+        "id": "52474414596407",
+        "image": 3
+      },
+      {
+        "title": "Gray / XL",
+        "id": "52474414530871",
+        "image": 3
+      },
+      {
+        "title": "Dark Green / S",
+        "id": "52513494958391",
+        "image": 5
+      },
+      {
+        "title": "Dark Green / M",
+        "id": "52513494991159",
+        "image": 5
+      },
+      {
+        "title": "Dark Green / L",
+        "id": "52513495023927",
+        "image": 5
+      },
+      {
+        "title": "Dark Green / XL",
+        "id": "52513495056695",
+        "image": 5
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A soft fleece hoodie with a relaxed fit, designed for daily comfort and effortless styling."
+        ]
+      }
+    ],
+    "excerpt": "A soft fleece hoodie with a relaxed fit, designed for daily comfort and effortless styling.",
+    "collections": [
+      "Men",
+      "Best Sellers"
+    ],
+    "type": "Hoodie",
+    "tags": [
+      "Casual",
+      "Comfort",
+      "Essential",
+      "Fleece",
+      "Hoodie"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "gji6qUS_B",
+    "title": "Everyday Hoodie",
+    "slug": "everyday-hoodie",
+    "price": 66.50,
+    "comparePrice": 84.00,
+    "images": [
+      {
+        "src": "/images/3XAmPXEcaVunkC2JA42tVA8jUt0.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/eLftWtJwyah046k5iZjzDO8xXg.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/44lYEmaX35MrhOtZRZ9eD00fE.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/NLvB3Rb3X0If4n14Rr9RkwDZbMo.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/r9bp9sQZZdvbVdjD2Iagg61JAow.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/k5IagPr2CFrvpGttvQ0EtjVj5B4.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Pink",
+          "Lavender",
+          "Beige"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Pink / S",
+        "id": "52515353067831",
+        "image": 1
+      },
+      {
+        "title": "Pink / M",
+        "id": "52515353100599",
+        "image": 1
+      },
+      {
+        "title": "Pink / L",
+        "id": "52515353133367",
+        "image": 1
+      },
+      {
+        "title": "Pink / XL",
+        "id": "52474416955703",
+        "image": 1
+      },
+      {
+        "title": "Lavender / S",
+        "id": "52515353166135",
+        "image": 3
+      },
+      {
+        "title": "Lavender / M",
+        "id": "52515353198903",
+        "image": 3
+      },
+      {
+        "title": "Lavender / L",
+        "id": "52515353231671",
+        "image": 3
+      },
+      {
+        "title": "Lavender / XL",
+        "id": "52515353264439",
+        "image": 3
+      },
+      {
+        "title": "Beige / S",
+        "id": "52515353297207",
+        "image": 5
+      },
+      {
+        "title": "Beige / M",
+        "id": "52515353329975",
+        "image": 5
+      },
+      {
+        "title": "Beige / L",
+        "id": "52515353362743",
+        "image": 5
+      },
+      {
+        "title": "Beige / XL",
+        "id": "52515353395511",
+        "image": 5
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "An everyday hoodie crafted from soft cotton fleece for comfort and effortless style. "
+        ]
+      }
+    ],
+    "excerpt": "An everyday hoodie crafted from soft cotton fleece for comfort and effortless style. ",
+    "collections": [
+      "New Arrivals",
+      "Women",
+      "Best Sellers"
+    ],
+    "type": "Hoodie",
+    "tags": [
+      "Casual",
+      "Cotton",
+      "Essential",
+      "Hoodie",
+      "Relaxed"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "aFzwNYY3K",
+    "title": "Oversized Graphic Tee",
+    "slug": "oversized-graphic-tee",
+    "price": 48.30,
+    "comparePrice": 62.30,
+    "images": [
+      {
+        "src": "/images/WgUlppA7a5lb4aVvIXab2FQ2Inc.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/daF7c4xekI32C4tZnig79Tn0FY.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/RUttATptrgo2RMs4SQkm0yduXU.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/lXBb9vfDWeTwqD0Fo7Szm8ISA.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Black",
+          "Blue",
+          "Beige"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Black / S",
+        "id": "52474419413303",
+        "image": 1
+      },
+      {
+        "title": "Black / M",
+        "id": "52474419347767",
+        "image": 1
+      },
+      {
+        "title": "Black / L",
+        "id": "52474419380535",
+        "image": 1
+      },
+      {
+        "title": "Black / XL",
+        "id": "52474419314999",
+        "image": 1
+      },
+      {
+        "title": "Blue / S",
+        "id": "52515331998007",
+        "image": 4
+      },
+      {
+        "title": "Blue / M",
+        "id": "52515332030775",
+        "image": 4
+      },
+      {
+        "title": "Blue / L",
+        "id": "52515332063543",
+        "image": 4
+      },
+      {
+        "title": "Blue / XL",
+        "id": "52515332096311",
+        "image": 4
+      },
+      {
+        "title": "Beige / S",
+        "id": "52474419544375",
+        "image": 3
+      },
+      {
+        "title": "Beige / M",
+        "id": "52474419478839",
+        "image": 3
+      },
+      {
+        "title": "Beige / L",
+        "id": "52474419511607",
+        "image": 3
+      },
+      {
+        "title": "Beige / XL",
+        "id": "52474419446071",
+        "image": 3
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "Premium cotton t-shirt featuring a relaxed oversized fit and contemporary graphic artwork."
+        ]
+      }
+    ],
+    "excerpt": "Premium cotton t-shirt featuring a relaxed oversized fit and contemporary graphic artwork.",
+    "collections": [
+      "Men",
+      "New Arrivals",
+      "Best Sellers"
+    ],
+    "type": "T-Shirt",
+    "tags": [
+      "Cotton",
+      "Graphic",
+      "Oversized",
+      "Streetwear",
+      "T-Shirt"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "NnhSiYbzu",
+    "title": "Graphic Sweatshirt",
+    "slug": "graphic-sweatshirt",
+    "price": 76.30,
+    "comparePrice": 97.30,
+    "images": [
+      {
+        "src": "/images/WTfQIPzt3IjYcI0uX9zy4XU8.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/L79ngGfEsLZ6vpvTZxFDvo5bJ4g.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/kTjeQiTn8cJNol8aGM8vnffMZbs.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/9e8AaosjZSCcIHp5YCjXOYkSs.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Charcoal Gray",
+          "Yellow",
+          "Steel Blue"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Charcoal Gray / S",
+        "id": "52515368763703",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / M",
+        "id": "52515368796471",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / L",
+        "id": "52515368829239",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / XL",
+        "id": "52474420953399",
+        "image": 1
+      },
+      {
+        "title": "Yellow / S",
+        "id": "52515368862007",
+        "image": 3
+      },
+      {
+        "title": "Yellow / M",
+        "id": "52515368894775",
+        "image": 3
+      },
+      {
+        "title": "Yellow / L",
+        "id": "52515368927543",
+        "image": 3
+      },
+      {
+        "title": "Yellow / XL",
+        "id": "52515368960311",
+        "image": 3
+      },
+      {
+        "title": "Steel Blue / S",
+        "id": "52515368993079",
+        "image": 4
+      },
+      {
+        "title": "Steel Blue / M",
+        "id": "52515369025847",
+        "image": 4
+      },
+      {
+        "title": "Steel Blue / L",
+        "id": "52515369058615",
+        "image": 4
+      },
+      {
+        "title": "Steel Blue / XL",
+        "id": "52515369091383",
+        "image": 4
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A premium oversized sweatshirt featuring modern graphic artwork and all-day comfort."
+        ]
+      }
+    ],
+    "excerpt": "A premium oversized sweatshirt featuring modern graphic artwork and all-day comfort.",
+    "collections": [
+      "Women",
+      "Best Sellers"
+    ],
+    "type": "Sweater",
+    "tags": [
+      "Cotton",
+      "Graphic",
+      "Oversized",
+      "Sweatshirt",
+      "Trendy"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "bYUD4yFPq",
+    "title": "Kids Puffer Jacket",
+    "slug": "kids-puffer-jacket",
+    "price": 62.30,
+    "comparePrice": 83.30,
+    "images": [
+      {
+        "src": "/images/BcU016AUUNHFwSdt1aYdwqj4.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/89EIUWryoeFxe8T8lWqegI4dc.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/dN37PAgrhnjaNVexmBo59bxVRo.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/IC1cOHSQanyWd0ALYqvFo9uvv1c.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Navy",
+          "Sage Green",
+          "Orange"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "4Y",
+          "6Y",
+          "8Y",
+          "10Y"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Navy / 4Y",
+        "id": "52474422395191",
+        "image": 1
+      },
+      {
+        "title": "Navy / 6Y",
+        "id": "52474422427959",
+        "image": 1
+      },
+      {
+        "title": "Navy / 8Y",
+        "id": "52474422460727",
+        "image": 1
+      },
+      {
+        "title": "Navy / 10Y",
+        "id": "52474422493495",
+        "image": 1
+      },
+      {
+        "title": "Sage Green / 4Y",
+        "id": "52515425747255",
+        "image": 3
+      },
+      {
+        "title": "Sage Green / 6Y",
+        "id": "52515425780023",
+        "image": 3
+      },
+      {
+        "title": "Sage Green / 8Y",
+        "id": "52515425812791",
+        "image": 3
+      },
+      {
+        "title": "Sage Green / 10Y",
+        "id": "52515425845559",
+        "image": 3
+      },
+      {
+        "title": "Orange / 4Y",
+        "id": "52515425878327",
+        "image": 4
+      },
+      {
+        "title": "Orange / 6Y",
+        "id": "52515425911095",
+        "image": 4
+      },
+      {
+        "title": "Orange / 8Y",
+        "id": "52515425943863",
+        "image": 4
+      },
+      {
+        "title": "Orange / 10Y",
+        "id": "52515425976631",
+        "image": 4
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A lightweight insulated puffer jacket designed to keep kids warm during cooler weather."
+        ]
+      }
+    ],
+    "excerpt": "A lightweight insulated puffer jacket designed to keep kids warm during cooler weather.",
+    "collections": [
+      "New Arrivals",
+      "Best Sellers",
+      "Kid",
+      "Seasonal Drop"
+    ],
+    "type": "Jacket",
+    "tags": [
+      "Kids",
+      "Outerwear",
+      "Puffer",
+      "Warm",
+      "Winter"
+    ],
+    "createdAt": "2026-06-15"
+  },
+  {
+    "id": "BUuKZBVxz",
+    "title": "Zipper Jacket",
+    "slug": "zipper-jacket",
+    "price": 69.30,
+    "comparePrice": 90.30,
+    "images": [
+      {
+        "src": "/images/0Bqkt7LQ4Wtn1XjmDEj5KF65qg.png",
+        "width": 1000,
+        "height": 1000
+      },
+      {
+        "src": "/images/pnRmhXvhc6GcNDwMmeGpMgSGXoY.png",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Charcoal Gray"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "title": "Charcoal Gray / S",
+        "id": "52515322790199",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / M",
+        "id": "52515322822967",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / L",
+        "id": "52515322855735",
+        "image": 1
+      },
+      {
+        "title": "Charcoal Gray / XL",
+        "id": "52515322888503",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "Charcoal gray zipper jacket designed for everyday comfort and casual style. Lightweight and versatile, perfect for layering or wearing solo on cool days."
+        ]
+      }
+    ],
+    "excerpt": "Charcoal gray zipper jacket designed for everyday comfort and casual style. Lightweight and versatile, perfect for layering or wearing solo on cool days.",
+    "collections": [
+      "Men",
+      "Best Sellers",
+      "Seasonal Drop"
+    ],
+    "type": "Jacket",
+    "tags": [],
+    "createdAt": "2026-06-23"
+  }
+]

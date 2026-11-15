@@ -1,0 +1,906 @@
+[
+  {
+    "title": "Privacy Policy",
+    "slug": "privacy-policy",
+    "excerpt": "Learn how customer information is collected, used, protected, and shared when shopping on our fashion e-commerce website.",
+    "content": [
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "strong",
+            "c": [
+              "Effective Date:"
+            ]
+          },
+          " June 25, 2026"
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "1. Introduction"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "This Privacy Policy explains how our fashion e-commerce website collects, uses, and protects information when visitors browse products, create an account, join a wishlist, subscribe to updates, contact us, or place an order. Our store focuses on modern wardrobe essentials, seasonal apparel, and style-led shopping experiences for customers looking for comfort, quality, and everyday confidence."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "2. Information We Collect"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We may collect information you provide directly, such as your name, email address, shipping address, billing details, phone number, account preferences, wishlist activity, product reviews, support messages, and newsletter signup information."
+        ]
+      },
+      {
+        "t": "ul",
+        "c": [
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Order information such as purchased items, sizes, colors, quantities, delivery address, and payment confirmation details."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Account information such as saved addresses, wishlist items, and communication preferences."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Customer service information such as messages, return requests, sizing questions, and issue reports."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "3. Automatically Collected Information"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "When you use the website, we may collect basic technical and browsing information, including device type, browser, pages viewed, products clicked, referral source, approximate location, and interactions with carts, filters, search, and checkout flows. This helps us understand how shoppers use the site and improve the experience."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "4. How We Use Information"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We use customer information to process orders, deliver products, manage returns, respond to support requests, personalize the shopping experience, prevent fraud, improve product recommendations, and send updates when you have opted in to receive them."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "5. Payments and Third-Party Services"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Payments may be handled by secure third-party payment providers. We do not store full payment card details on our website. Shipping carriers, analytics providers, commerce platforms, email tools, and customer support services may process information only as needed to provide their services."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "6. Cookies and Tracking"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Cookies may be used to keep items in your cart, remember preferences, measure performance, support analytics, and improve product discovery. You can manage cookie settings through your browser, although disabling cookies may affect checkout, account, or cart functionality."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "7. Data Sharing"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We do not sell personal information. Information may be shared with service providers that help operate the store, fulfill orders, process payments, deliver packages, prevent fraud, provide analytics, or comply with legal obligations."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "8. Data Security"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We use reasonable technical and organizational measures to protect customer information. No online service can guarantee complete security, but we work to keep shopping, account, and order data protected against unauthorized access or misuse."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "9. Your Rights"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Depending on your location, you may have the right to access, correct, delete, restrict, or request a copy of your personal information. You may also unsubscribe from marketing emails at any time using the link in the email or by contacting us."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "10. Contact"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "If you have questions about this Privacy Policy or how your information is handled, please contact our support team through the contact details provided on the website."
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "a",
+            "a": { "href": "/contact" },
+            "c": ["Contact TRYLIVO"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Terms of Service",
+    "slug": "terms-of-service",
+    "excerpt": "Review the terms that govern browsing, ordering, accounts, promotions, product availability, and acceptable website use.",
+    "content": [
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "strong",
+            "c": [
+              "Effective Date:"
+            ]
+          },
+          " June 25, 2026"
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "1. Overview"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "These Terms of Service govern your use of our fashion e-commerce website, including browsing products, creating an account, placing orders, using promotional offers, joining wishlists, and interacting with customer support. By using the website, you agree to these terms."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "2. Products and Availability"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We aim to display product details, colors, prices, sizes, and availability as accurately as possible. However, product images may vary slightly depending on screen settings, lighting, and photography. Stock availability can change quickly and an item added to your cart is not reserved until checkout is completed."
+        ]
+      },
+      {
+        "t": "ul",
+        "c": [
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Product descriptions are provided for general guidance."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Size and fit information is intended to help you choose confidently."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "We may update, remove, or limit products at any time."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "3. Orders and Acceptance"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "After placing an order, you may receive an order confirmation. This confirmation means we have received your order request, but it does not guarantee acceptance. We may cancel or refuse an order if an item is unavailable, payment is declined, information is inaccurate, or fraud is suspected."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "4. Pricing and Promotions"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Prices are shown in the currency displayed on the website and may change without notice. Promotions, discount codes, sale pricing, and free shipping offers may be subject to additional conditions, expiry dates, exclusions, or minimum order values."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "5. Accounts"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "You are responsible for keeping your account information accurate and your login details secure. If you believe your account has been accessed without permission, contact us as soon as possible."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "6. Shipping, Returns, and Refunds"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Shipping, return, and refund rules are described in our dedicated policies. By placing an order, you agree to the delivery timelines, return windows, product condition requirements, and refund processing terms listed there."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "7. Acceptable Use"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "You agree not to misuse the website, interfere with its operation, attempt unauthorized access, copy content without permission, submit false information, or use the site for unlawful activity."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "8. Intellectual Property"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "All website content, including images, product photography, layout, graphics, copy, branding, and design elements, belongs to us or our licensors. You may not reproduce or use this content for commercial purposes without written permission."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "9. Limitation of Liability"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "To the fullest extent permitted by law, we are not liable for indirect, incidental, or consequential damages related to use of the website, product availability, delivery delays, or third-party services."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "10. Contact"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "For questions about these Terms of Service, please contact our customer support team through the contact details provided on the website."
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "a",
+            "a": { "href": "/contact" },
+            "c": ["Contact TRYLIVO"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Return & Refund Policy",
+    "slug": "return-and-refund-policy",
+    "excerpt": "Understand return windows, item condition requirements, exchanges, refunds, and how to report damaged or incorrect products.",
+    "content": [
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "strong",
+            "c": [
+              "Effective Date:"
+            ]
+          },
+          " June 25, 2026"
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "1. Overview"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We want you to feel confident when shopping for wardrobe essentials, seasonal pieces, outerwear, and everyday apparel. If something is not right, this Return & Refund Policy explains how returns, exchanges, and refunds are handled."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "2. Return Window"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Eligible items may be returned within the return period stated on the website or order confirmation. Items sent back after the return window may not be accepted unless required by applicable law."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "3. Return Conditions"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Returned items must be unworn, unwashed, unused, and in original condition with tags, labels, and packaging attached where applicable. Items showing signs of wear, fragrance, stains, damage, alteration, or missing tags may be refused."
+        ]
+      },
+      {
+        "t": "ul",
+        "c": [
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Keep original tags attached until you are sure about the item."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Try footwear and apparel indoors on a clean surface."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Pack returns securely to prevent damage during transit."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "4. Non-Returnable Items"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "For hygiene and quality reasons, certain items may be final sale or non-returnable. This may include underwear, swimwear, socks, personalized items, gift cards, heavily discounted final-sale products, and items marked as non-returnable at checkout."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "5. Exchanges"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "If you need a different size, color, or fit, you may request an exchange where available. Exchanges depend on stock availability. If the requested item is unavailable, we may offer a refund, store credit, or an alternative option."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "6. Refunds"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Once your return is received and inspected, we will notify you of the approval status. Approved refunds are usually issued to the original payment method. Processing time may vary depending on your bank, card provider, or payment service."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "7. Return Shipping"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Return shipping fees may be deducted from the refund unless the return is due to an error on our part, such as receiving the wrong item or a defective product. Original shipping charges may not be refundable unless required by law."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "8. Damaged or Incorrect Items"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "If you receive a damaged, defective, or incorrect item, contact us as soon as possible with your order number and clear photos. We will review the issue and provide the next steps for replacement, refund, or return."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "9. Contact"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "For return or refund questions, contact our support team through the contact details provided on the website. Include your order number so we can help faster."
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "a",
+            "a": { "href": "/contact" },
+            "c": ["Contact TRYLIVO"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shipping Policy",
+    "slug": "shipping-policy",
+    "excerpt": "See how orders are processed, shipped, tracked, and handled in cases of delays, customs, or delivery issues.",
+    "content": [
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "strong",
+            "c": [
+              "Effective Date:"
+            ]
+          },
+          " June 25, 2026"
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "1. Overview"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "This Shipping Policy explains how orders are processed and delivered for purchases made through our fashion e-commerce website. We ship apparel, accessories, and wardrobe essentials with the goal of getting your order to you safely and reliably."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "2. Order Processing"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Orders are usually processed after payment is confirmed. Processing times may vary during launches, sale periods, holidays, or high-demand collection drops. Orders placed on weekends or public holidays may begin processing on the next business day."
+        ]
+      },
+      {
+        "t": "ul",
+        "c": [
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "You will receive an order confirmation after checkout."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "You will receive tracking details when the order ships."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Processing and delivery timelines may vary by destination."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "3. Shipping Methods and Delivery Times"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Available shipping methods and estimated delivery times are shown at checkout. Delivery estimates are not guaranteed and may be affected by courier delays, weather, customs checks, incorrect addresses, or peak shipping seasons."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "4. Shipping Costs"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Shipping costs are calculated at checkout based on destination, order value, shipping method, and any active promotions. Free shipping offers may require a minimum order value and may exclude certain locations or oversized items."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "5. Address Accuracy"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Please ensure your shipping address is complete and accurate before placing an order. We are not responsible for delays, failed deliveries, or lost packages caused by incorrect or incomplete address details provided at checkout."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "6. Tracking"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Once your order ships, tracking information may be sent by email or made available in your account. Tracking updates can take time to appear after the courier receives the package."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "7. International Shipping"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "International orders may be subject to customs duties, import taxes, brokerage fees, or local charges. These costs are the customer’s responsibility unless clearly stated otherwise at checkout. Customs processing may also affect delivery time."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "8. Lost, Delayed, or Damaged Packages"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "If your package is delayed, missing, or arrives damaged, contact our support team with your order number and tracking details. We will help investigate with the courier and provide the next available options."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "9. Contact"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "For shipping questions, contact our support team through the contact details provided on the website."
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "a",
+            "a": { "href": "/contact" },
+            "c": ["Contact TRYLIVO"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Cookie Policy",
+    "slug": "cookie-policy",
+    "excerpt": "Learn how cookies support cart, checkout, preferences, analytics, personalization, and overall shopping functionality.",
+    "content": [
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "strong",
+            "c": [
+              "Effective Date:"
+            ]
+          },
+          " June 25, 2026"
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "1. Introduction"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "This Cookie Policy explains how cookies and similar technologies may be used on our fashion e-commerce website. Cookies help the store function properly, remember preferences, improve product discovery, measure performance, and support a smoother shopping experience."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "2. What Cookies Are"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Cookies are small files stored on your device when you visit a website. They can help remember actions such as items in your cart, account sessions, region preferences, recently viewed products, and browsing behavior."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "3. Types of Cookies We Use"
+        ]
+      },
+      {
+        "t": "ul",
+        "c": [
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Essential cookies support core features such as cart, checkout, account login, security, and site navigation."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Performance cookies help us understand page views, product engagement, site speed, and browsing patterns."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Preference cookies remember settings such as region, currency, filters, and other shopping preferences."
+                ]
+              }
+            ]
+          },
+          {
+            "t": "li",
+            "c": [
+              {
+                "t": "p",
+                "c": [
+                  "Marketing cookies may help show relevant products, campaigns, or offers across channels where permitted."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "4. E-commerce Functionality"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Some cookies are necessary for shopping features to work. For example, cookies may keep products in your cart, remember selected sizes or colors, support wishlist behavior, and help prevent checkout errors. Disabling these cookies may limit the website’s functionality."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "5. Analytics and Improvement"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Analytics cookies help us understand which collections, product pages, categories, filters, and content are most useful to visitors. This information helps improve merchandising, navigation, page performance, and the overall shopping experience."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "6. Third-Party Cookies"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "Third-party services such as payment providers, analytics tools, advertising platforms, embedded media, commerce integrations, and customer support tools may set their own cookies. These providers are responsible for their own cookie and privacy practices."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "7. Managing Cookies"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "You can control or delete cookies through your browser settings. Some regions may also provide cookie consent tools on the website. If you block certain cookies, parts of the store may not work correctly, including cart, checkout, account, or personalization features."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "8. Updates to This Policy"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "We may update this Cookie Policy when our website, tools, or legal requirements change. Updates will be reflected on this page."
+        ]
+      },
+      {
+        "t": "h2",
+        "c": [
+          "9. Contact"
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          "For questions about this Cookie Policy, contact our support team through the contact details provided on the website."
+        ]
+      },
+      {
+        "t": "p",
+        "c": [
+          {
+            "t": "a",
+            "a": { "href": "/contact" },
+            "c": ["Contact TRYLIVO"]
+          }
+        ]
+      }
+    ]
+  }
+]

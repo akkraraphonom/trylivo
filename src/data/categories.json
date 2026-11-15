@@ -1,0 +1,68 @@
+[
+  {
+    "title": "T-Shirt",
+    "slug": "t-shirt",
+    "description": "Soft everyday tees designed for easy layering and effortless daily style.",
+    "image": {
+      "src": "/images/category-t-shirt-editorial-detail-v2.webp",
+      "width": 1672,
+      "height": 941,
+      "position": "78% 15%"
+    }
+  },
+  {
+    "title": "Cardigan",
+    "slug": "cardigan",
+    "description": "Comfortable cardigans that add warmth, texture, and polish to any outfit.",
+    "image": {
+      "src": "/images/KiqB33LSKZFRfDAqpuZ0gAupag.png",
+      "width": 2998,
+      "height": 1991,
+      "position": "50% 62.7%"
+    }
+  },
+  {
+    "title": "Hoodie",
+    "slug": "hoodie",
+    "description": "Relaxed hoodies built for cozy comfort, casual days, and clean layering.",
+    "image": {
+      "src": "/images/category-hoodie-editorial-detail-v2.webp",
+      "width": 1672,
+      "height": 941,
+      "position": "78% 15%"
+    }
+  },
+  {
+    "title": "Sweater",
+    "slug": "sweater",
+    "description": "Timeless sweaters with soft textures, easy warmth, and refined seasonal appeal.",
+    "image": {
+      "src": "/images/category-sweater-editorial-detail-v2.webp",
+      "width": 1672,
+      "height": 941,
+      "position": "78% 15%"
+    }
+  },
+  {
+    "title": "Jacket",
+    "slug": "jacket",
+    "description": "Statement jackets that finish your look with structure, comfort, and confidence.",
+    "image": {
+      "src": "/images/category-jacket-editorial-detail-v2.webp",
+      "width": 1672,
+      "height": 941,
+      "position": "78% 15%"
+    }
+  },
+  {
+    "title": "All",
+    "slug": "all",
+    "description": "Explore the full collection of wardrobe essentials, seasonal layers, and everyday favorites.",
+    "image": {
+      "src": "/images/all-editorial-sky-v2.png",
+      "width": 1536,
+      "height": 1024,
+      "position": "65% 15%"
+    }
+  }
+]

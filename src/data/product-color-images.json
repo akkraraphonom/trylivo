@@ -1,0 +1,200 @@
+{
+  "everyday-hoodie": {
+    "Lavender": [
+      {
+        "src": "/images/color-final-everyday-hoodie-lavender-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-everyday-hoodie-lavender-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ],
+    "Beige": [
+      {
+        "src": "/images/color-final-everyday-hoodie-beige-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-everyday-hoodie-beige-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "lightweight-jacket": {
+    "Charcoal Gray": [
+      {
+        "src": "/images/color-final-lightweight-jacket-charcoal-gray-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-lightweight-jacket-charcoal-gray-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "kids-everyday-hoodie": {
+    "Dark Green": [
+      {
+        "src": "/images/color-final-kids-everyday-hoodie-dark-green-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-kids-everyday-hoodie-dark-green-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ],
+    "Red": [
+      {
+        "src": "/images/color-final-kids-everyday-hoodie-red-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-kids-everyday-hoodie-red-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "relaxed-fit-cardigan": {
+    "Sage Green": [
+      {
+        "src": "/images/color-final-relaxed-fit-cardigan-sage-green-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-relaxed-fit-cardigan-sage-green-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "kids-graphic-t-shirt": {
+    "Beige": [
+      {
+        "src": "/images/color-final-kids-graphic-t-shirt-beige-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-kids-graphic-t-shirt-beige-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "classic-hoodie": {
+    "Gray": [
+      {
+        "src": "/images/color-final-classic-hoodie-gray-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-classic-hoodie-gray-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ],
+    "Dark Green": [
+      {
+        "src": "/images/color-final-classic-hoodie-dark-green-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-classic-hoodie-dark-green-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "oversized-graphic-tee": {
+    "Blue": [
+      {
+        "src": "/images/color-final-oversized-graphic-tee-blue-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-oversized-graphic-tee-blue-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ],
+    "Beige": [
+      {
+        "src": "/images/color-final-oversized-graphic-tee-beige-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-oversized-graphic-tee-beige-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "graphic-sweatshirt": {
+    "Yellow": [
+      {
+        "src": "/images/color-final-graphic-sweatshirt-yellow-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-graphic-sweatshirt-yellow-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ],
+    "Steel Blue": [
+      {
+        "src": "/images/color-final-graphic-sweatshirt-steel-blue-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-graphic-sweatshirt-steel-blue-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  },
+  "kids-puffer-jacket": {
+    "Sage Green": [
+      {
+        "src": "/images/color-final-kids-puffer-jacket-sage-green-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-kids-puffer-jacket-sage-green-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ],
+    "Orange": [
+      {
+        "src": "/images/color-final-kids-puffer-jacket-orange-model-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      },
+      {
+        "src": "/images/color-final-kids-puffer-jacket-orange-garment-20261115.webp",
+        "width": 2508,
+        "height": 2508
+      }
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+[
+  {
+    "id": "gallery-baby-tee",
+    "slug": "gallery-baby-tee",
+    "title": "Gallery Baby Tee",
+    "type": "T-Shirt",
+    "price": 27.30,
+    "comparePrice": null,
+    "excerpt": "A fitted short-sleeve tee in ice blue.",
+    "editorialImage": "/images/editorial-gallery-baby-tee-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-gallery-baby-tee-v2.png",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/catalog-gallery-baby-tee-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Ice Blue"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "gallery-baby-tee-s",
+        "title": "Ice Blue / S",
+        "image": 1
+      },
+      {
+        "id": "gallery-baby-tee-m",
+        "title": "Ice Blue / M",
+        "image": 1
+      },
+      {
+        "id": "gallery-baby-tee-l",
+        "title": "Ice Blue / L",
+        "image": 1
+      },
+      {
+        "id": "gallery-baby-tee-xl",
+        "title": "Ice Blue / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A fitted short-sleeve tee in ice blue."
+        ]
+      }
+    ],
+    "collections": [
+      "Women"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "vermilion-sculpted-knit",
+    "slug": "vermilion-sculpted-knit",
+    "title": "Vermilion Sculpted Knit",
+    "type": "Sweater",
+    "price": 62.30,
+    "comparePrice": null,
+    "excerpt": "A ribbed knit with sculptural puff sleeves.",
+    "editorialImage": "/images/editorial-vermilion-sculpted-knit-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-vermilion-sculpted-knit-v2.png",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/catalog-vermilion-sculpted-knit-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Vermilion"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "vermilion-sculpted-knit-s",
+        "title": "Vermilion / S",
+        "image": 1
+      },
+      {
+        "id": "vermilion-sculpted-knit-m",
+        "title": "Vermilion / M",
+        "image": 1
+      },
+      {
+        "id": "vermilion-sculpted-knit-l",
+        "title": "Vermilion / L",
+        "image": 1
+      },
+      {
+        "id": "vermilion-sculpted-knit-xl",
+        "title": "Vermilion / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A ribbed knit with sculptural puff sleeves."
+        ]
+      }
+    ],
+    "collections": [
+      "Women"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "studio-heavyweight-hoodie",
+    "slug": "studio-heavyweight-hoodie",
+    "title": "Studio Heavyweight Hoodie",
+    "type": "Hoodie",
+    "price": 55.30,
+    "comparePrice": null,
+    "excerpt": "A relaxed off-white hoodie with a kangaroo pocket.",
+    "editorialImage": "/images/editorial-studio-heavyweight-hoodie-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-studio-heavyweight-hoodie-v2.png",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/catalog-studio-heavyweight-hoodie-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Off White"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "studio-heavyweight-hoodie-s",
+        "title": "Off White / S",
+        "image": 1
+      },
+      {
+        "id": "studio-heavyweight-hoodie-m",
+        "title": "Off White / M",
+        "image": 1
+      },
+      {
+        "id": "studio-heavyweight-hoodie-l",
+        "title": "Off White / L",
+        "image": 1
+      },
+      {
+        "id": "studio-heavyweight-hoodie-xl",
+        "title": "Off White / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A relaxed off-white hoodie with a kangaroo pocket."
+        ]
+      }
+    ],
+    "collections": [
+      "Men"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "night-studio-jacket",
+    "slug": "night-studio-jacket",
+    "title": "Night Studio Jacket",
+    "type": "Jacket",
+    "price": 83.30,
+    "comparePrice": null,
+    "excerpt": "An oversized black zip jacket with a paint-splatter finish.",
+    "editorialImage": "/images/editorial-night-studio-jacket-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-night-studio-jacket-v2.png",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/catalog-night-studio-jacket-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Black"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "night-studio-jacket-s",
+        "title": "Black / S",
+        "image": 1
+      },
+      {
+        "id": "night-studio-jacket-m",
+        "title": "Black / M",
+        "image": 1
+      },
+      {
+        "id": "night-studio-jacket-l",
+        "title": "Black / L",
+        "image": 1
+      },
+      {
+        "id": "night-studio-jacket-xl",
+        "title": "Black / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "An oversized black zip jacket with a paint-splatter finish."
+        ]
+      }
+    ],
+    "collections": [
+      "Men"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "ivory-cropped-zip-jacket",
+    "slug": "ivory-cropped-zip-jacket",
+    "title": "Ivory Cropped Zip Jacket",
+    "type": "Jacket",
+    "price": 69.30,
+    "comparePrice": null,
+    "excerpt": "A cropped ivory jacket with a tall collar and front zip.",
+    "editorialImage": "/images/editorial-ivory-cropped-zip-jacket-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-ivory-cropped-zip-jacket-v2.png",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/catalog-ivory-cropped-zip-jacket-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Ivory"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "ivory-cropped-zip-jacket-s",
+        "title": "Ivory / S",
+        "image": 1
+      },
+      {
+        "id": "ivory-cropped-zip-jacket-m",
+        "title": "Ivory / M",
+        "image": 1
+      },
+      {
+        "id": "ivory-cropped-zip-jacket-l",
+        "title": "Ivory / L",
+        "image": 1
+      },
+      {
+        "id": "ivory-cropped-zip-jacket-xl",
+        "title": "Ivory / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A cropped ivory jacket with a tall collar and front zip."
+        ]
+      }
+    ],
+    "collections": [
+      "Women"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "pottery-chore-jacket",
+    "slug": "pottery-chore-jacket",
+    "title": "Pottery Chore Jacket",
+    "type": "Jacket",
+    "price": 76.30,
+    "comparePrice": null,
+    "excerpt": "A boxy olive canvas jacket with patch pockets.",
+    "editorialImage": "/images/editorial-pottery-chore-jacket-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-pottery-chore-jacket-v2.png",
+        "width": 1199,
+        "height": 1312
+      },
+      {
+        "src": "/images/catalog-pottery-chore-jacket-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Olive"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "pottery-chore-jacket-s",
+        "title": "Olive / S",
+        "image": 1
+      },
+      {
+        "id": "pottery-chore-jacket-m",
+        "title": "Olive / M",
+        "image": 1
+      },
+      {
+        "id": "pottery-chore-jacket-l",
+        "title": "Olive / L",
+        "image": 1
+      },
+      {
+        "id": "pottery-chore-jacket-xl",
+        "title": "Olive / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A boxy olive canvas jacket with patch pockets."
+        ]
+      }
+    ],
+    "collections": [
+      "Women"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "rehearsal-rugby-shirt",
+    "slug": "rehearsal-rugby-shirt",
+    "title": "Rehearsal Rugby Shirt",
+    "type": "T-Shirt",
+    "price": 55.30,
+    "comparePrice": null,
+    "excerpt": "A burgundy and cream striped rugby shirt with an ivory collar.",
+    "editorialImage": "/images/editorial-rehearsal-rugby-shirt-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-rehearsal-rugby-shirt-v2.png",
+        "width": 1199,
+        "height": 1312
+      },
+      {
+        "src": "/images/catalog-rehearsal-rugby-shirt-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Burgundy & Cream"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "rehearsal-rugby-shirt-s",
+        "title": "Burgundy & Cream / S",
+        "image": 1
+      },
+      {
+        "id": "rehearsal-rugby-shirt-m",
+        "title": "Burgundy & Cream / M",
+        "image": 1
+      },
+      {
+        "id": "rehearsal-rugby-shirt-l",
+        "title": "Burgundy & Cream / L",
+        "image": 1
+      },
+      {
+        "id": "rehearsal-rugby-shirt-xl",
+        "title": "Burgundy & Cream / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A burgundy and cream striped rugby shirt with an ivory collar."
+        ]
+      }
+    ],
+    "collections": [
+      "Men"
+    ],
+    "tags": [],
+    "createdAt": null
+  },
+  {
+    "id": "gallery-wrap-knit",
+    "slug": "gallery-wrap-knit",
+    "title": "Gallery Wrap Knit",
+    "type": "Sweater",
+    "price": 62.30,
+    "comparePrice": null,
+    "excerpt": "A charcoal knit top with an asymmetrical wrap front.",
+    "editorialImage": "/images/editorial-gallery-wrap-knit-2x.webp",
+    "images": [
+      {
+        "src": "/images/catalog-gallery-wrap-knit-v2.png",
+        "width": 1199,
+        "height": 1312
+      },
+      {
+        "src": "/images/catalog-gallery-wrap-knit-garment-window-v2.png",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "options": [
+      {
+        "name": "Color",
+        "values": [
+          "Charcoal"
+        ]
+      },
+      {
+        "name": "Size",
+        "values": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "id": "gallery-wrap-knit-s",
+        "title": "Charcoal / S",
+        "image": 1
+      },
+      {
+        "id": "gallery-wrap-knit-m",
+        "title": "Charcoal / M",
+        "image": 1
+      },
+      {
+        "id": "gallery-wrap-knit-l",
+        "title": "Charcoal / L",
+        "image": 1
+      },
+      {
+        "id": "gallery-wrap-knit-xl",
+        "title": "Charcoal / XL",
+        "image": 1
+      }
+    ],
+    "description": [
+      {
+        "t": "p",
+        "c": [
+          "A charcoal knit top with an asymmetrical wrap front."
+        ]
+      }
+    ],
+    "collections": [
+      "Women"
+    ],
+    "tags": [],
+    "createdAt": null
+  }
+]

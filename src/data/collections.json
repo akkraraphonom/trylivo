@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Seasonal Drop",
+    "slug": "seasonal-drop",
+    "description": "Fresh seasonal pieces designed to update your wardrobe with comfort, texture, and modern style.",
+    "image": {
+      "src": "/images/0g1V5wDEVEuOpSwKY6yIl5JAiM.png",
+      "width": 2880,
+      "height": 1706,
+      "position": "45.8% 7.5%"
+    }
+  },
+  {
+    "title": "Best Sellers",
+    "slug": "best-sellers",
+    "description": "Customer-favorite essentials loved for their easy fit, everyday comfort, and timeless versatility.",
+    "image": {
+      "src": "/images/FoT1BqG3LNEI4zXenW307bBxhoI.png",
+      "width": 2880,
+      "height": 1706,
+      "position": "16.6% 5.6%"
+    }
+  },
+  {
+    "title": "New Arrivals",
+    "slug": "new-arrivals",
+    "description": "The latest arrivals in apparel, layers, and wardrobe staples made for right-now styling.",
+    "image": {
+      "src": "/images/DMgVMRlY9ORz1bvkFevnCrcJTc.png",
+      "width": 1200,
+      "height": 673,
+      "position": "49% 0%"
+    }
+  },
+  {
+    "title": "Kid",
+    "slug": "kid",
+    "description": "Comfortable kids’ styles made for movement, play, layering, and everyday confidence.",
+    "image": {
+      "src": "/images/z5umGmMJbKxPKhofyWNirdEybM.png",
+      "width": 1280,
+      "height": 718,
+      "position": "50.4% 22.6%"
+    }
+  },
+  {
+    "title": "Women",
+    "slug": "women",
+    "description": "Modern women’s essentials with effortless silhouettes, soft textures, and versatile seasonal appeal.",
+    "image": {
+      "src": "/images/unSPF6qvgd3Ql0QDZmgv9iVuN4.png",
+      "width": 2880,
+      "height": 1706,
+      "position": "50.2% 17.1%"
+    }
+  },
+  {
+    "title": "Men",
+    "slug": "men",
+    "description": "Refined men’s staples built for comfort, clean layering, and confident everyday dressing.",
+    "image": {
+      "src": "/images/JMWcZy20aShkOaopLNDyfxz06ds.png",
+      "width": 1500,
+      "height": 806,
+      "position": "50.4% 11.3%"
+    }
+  },
+  {
+    "title": "All",
+    "slug": "all",
+    "description": "Explore every collection, from new arrivals and best sellers to everyday essentials for all.",
+    "image": {
+      "src": "/images/2hbUN61Rj3aqIA7WfQeLi4fhM.png",
+      "width": 1440,
+      "height": 698
+    }
+  }
+]
