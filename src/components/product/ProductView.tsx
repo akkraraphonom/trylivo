@@ -87,7 +87,7 @@ export function ProductView({ product, sizeGuide }: { product: Product; sizeGuid
         <Link href={`/shop/category/${slugify(product.type)}`}>{product.type}</Link>
       </nav>
 
-      <div className="mt-5 grid gap-9 md:mt-7 md:grid-cols-2 md:gap-4 lg:grid-cols-[minmax(0,728fr)_minmax(0,516fr)]">
+      <div className="mt-5 grid grid-cols-1 gap-9 md:mt-7 md:grid-cols-2 md:gap-4 lg:grid-cols-[minmax(0,728fr)_minmax(0,516fr)]">
         <ProductGallery
           key={color}
           images={images}
@@ -96,7 +96,7 @@ export function ProductView({ product, sizeGuide }: { product: Product; sizeGuid
           badge={isNew(product) ? "New" : undefined}
         />
 
-        <div className="flex flex-col gap-10 md:sticky md:top-24 md:self-start lg:pl-8">
+        <div className="flex min-w-0 flex-col gap-10 md:sticky md:top-24 md:self-start lg:pl-8">
           <div className="flex flex-col gap-3">
             <div className="flex flex-col gap-4">
               <h1 className="text-[28px] leading-[1.1] tracking-[-0.03em] md:text-[30px] lg:text-[32px]">{product.title}</h1>
@@ -115,7 +115,7 @@ export function ProductView({ product, sizeGuide }: { product: Product; sizeGuid
 
           <div className="flex flex-col gap-6">
             {colors.length > 0 && (
-              <fieldset className="flex flex-col gap-2.5">
+              <fieldset className="flex min-w-0 flex-col gap-2.5">
                 <legend className="mb-2.5 text-[14px] leading-[1.2] tracking-[-0.02em] text-muted md:text-[16px]">
                   Color: <span className="text-ink">{color}</span>
                 </legend>
@@ -141,7 +141,7 @@ export function ProductView({ product, sizeGuide }: { product: Product; sizeGuid
             )}
 
             {sizes.length > 0 && (
-              <fieldset className="flex flex-col">
+              <fieldset className="flex min-w-0 flex-col">
                 <legend className="mb-2.5 text-[14px] leading-[1.2] tracking-[-0.02em] text-muted md:text-[16px]">
                   Size{size && <span className="text-ink">: {size}</span>}
                 </legend>
@@ -167,7 +167,7 @@ export function ProductView({ product, sizeGuide }: { product: Product; sizeGuid
               </fieldset>
             )}
 
-            <div className="flex flex-col gap-2.5">
+            <div className="flex min-w-0 flex-col gap-2.5">
               <p className="text-[14px] leading-[1.2] tracking-[-0.02em] text-muted md:text-[16px]">Quantity</p>
               <div className="self-start">
                 <QtyStepper value={qty} onChange={setQty} />
@@ -180,14 +180,14 @@ export function ProductView({ product, sizeGuide }: { product: Product; sizeGuid
                   <button
                     type="button"
                     onClick={() => add()}
-                    className="h-11 w-[166px] rounded-full bg-white text-[16px] tracking-[-0.02em] inset-ring inset-ring-ink md:h-12"
+                    className="h-11 min-w-0 flex-1 max-w-[166px] rounded-full bg-white text-[16px] tracking-[-0.02em] inset-ring inset-ring-ink md:h-12"
                   >
                     Add to Cart
                   </button>
                   <button
                     type="button"
                     onClick={() => add(true)}
-                    className="h-11 w-[166px] rounded-full bg-ink text-[16px] font-medium tracking-[-0.02em] text-white md:h-12"
+                    className="h-11 min-w-0 flex-1 max-w-[166px] rounded-full bg-ink text-[16px] font-medium tracking-[-0.02em] text-white md:h-12"
                   >
                     Buy Now
                   </button>

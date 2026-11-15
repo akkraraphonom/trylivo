@@ -162,7 +162,7 @@ export function Catalog({
             <span>{heading.crumb}</span>
           </p>
           <div className="flex flex-col gap-5">
-            <h2 className="text-[56px] leading-[1.1] tracking-[-0.03em]">{heading.title}</h2>
+            <h2 className="text-[36px] leading-[1.1] tracking-[-0.03em] md:text-[56px]">{heading.title}</h2>
             <p className="max-w-[500px] text-[16px] leading-[1.2] tracking-[-0.02em] text-muted md:max-w-[400px] lg:max-w-[500px] lg:text-[18px]">{heading.text}</p>
           </div>
         </div>

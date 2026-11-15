@@ -282,54 +282,57 @@ html.lenis body {
 }
 
 /* Hide scrollbar chrome without disabling scrolling. */
-.fitting-room { width: min(960px, calc(100% - 32px)); max-height: calc(100dvh - 32px); margin: auto; padding: 0; border: 1px solid #e2dcd1; border-radius: 20px; background: #f4f1eb; overflow-y: auto; box-shadow: 0 32px 100px #18150e33; }
-.fitting-room::backdrop { background: #25221c88; backdrop-filter: blur(5px); }
+.fitting-room { width: min(960px, calc(100% - 32px)); max-height: calc(100dvh - 32px); margin: auto; padding: 0; border: 1px solid #e5e5e5; border-radius: 20px; background: #fff; overflow-y: auto; box-shadow: 0 32px 100px #0002; }
+.fitting-room::backdrop { background: #0006; backdrop-filter: blur(5px); }
 .fitting-room-header { display: flex; align-items: center; justify-content: space-between; padding: 22px 28px 0; }
 .fitting-room-header > img { width: 132px; height: auto; opacity: .85; }
-.fitting-room-close { display: grid; place-items: center; width: 34px; height: 34px; border: 1px solid #29271f25; border-radius: 50%; transition: background .2s; }
+.fitting-room-close { display: grid; place-items: center; width: 34px; height: 34px; border: 1px solid #ddd; border-radius: 50%; transition: background .2s; }
 .fitting-room-close:hover { background: #fff9; }
-.fitting-room-layout { display: grid; grid-template-columns: minmax(0,1.35fr) minmax(240px,1fr); gap: 54px; padding: 14px 54px 30px 40px; align-items: center; }
-.fitting-room-stage { position: relative; padding: 12px 16px 0; min-width: 0; }
+.fitting-room-layout { display: grid; grid-template-columns: minmax(0,1.2fr) minmax(260px,1fr); gap: 36px; padding: 24px 28px 28px; align-items: center; }
+.fitting-room-stage { position: relative; padding: 0; min-width: 0; }
 
-.fitting-mirror { position: relative; width: 100%; max-width: 370px; margin: auto; aspect-ratio: 3 / 5; max-height: 66dvh; border-radius: 0; background: transparent; }
+.fitting-mirror { position: relative; width: 100%; margin: auto; aspect-ratio: 4 / 5; max-height: 64dvh; background: transparent; }
 .fitting-mirror-glass { position: relative; height: 100%; overflow: hidden; border-radius: 0; background: transparent; }
-.fitting-mirror[data-live="true"] .fitting-mirror-glass { background: #242621; }
+.fitting-mirror[data-live="true"] .fitting-mirror-glass { background: #f5f5f5; }
 .fitting-mirror-output { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; }
-.fitting-mirror-idle { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; color: #51554a; padding: 24px; }
-.fitting-mirror-idle > img { opacity: .35; width: 31px; height: auto; margin-bottom: 24px; }
-.fitting-mirror-idle > p { font-size: clamp(20px,2vw,27px); font-weight: 400; line-height: 1.3; letter-spacing: -.04em; }
-.fitting-mirror-idle > p > span { font-family: Georgia,serif; font-style: italic; font-weight: 400; }
-.fitting-mirror-hint { margin-top: 22px; font-size: 10px; color: #62675b; letter-spacing: .04em; }
+.fitting-mirror-idle { position: absolute; inset: 0; overflow: hidden; }
+.fitting-mirror-idle > img { width: 100%; height: 100%; object-fit: cover; }
+
+
+
 .fitting-mirror-original { position: absolute; bottom: 12px; right: 12px; width: 64px; max-height: 90px; object-fit: contain; border: 1px solid #ffffff60; border-radius: 8px; background: #222; }
-.fitting-room-status { display: flex; justify-content: center; align-items: center; gap: 7px; position: relative; margin-top: 20px; font-size: 10px; color: #747063; letter-spacing: .03em; }
+.fitting-room-status { display: flex; justify-content: center; align-items: center; gap: 7px; position: relative; margin-top: 20px; font-size: 10px; color: #777; letter-spacing: .03em; }
 .fitting-room-status > span { width: 5px; height: 5px; border-radius: 50%; background: #a09e93; }
 .fitting-room-status > span.is-live { background: #537858; }
-.fitting-room-eyebrow { color: #88806e; font-size: 9px; letter-spacing: .19em; }
-.fitting-room-heading h2 { font-family: Georgia,serif; font-weight: 400; font-size: 36px; letter-spacing: -.055em; margin: 10px 0 28px; }
-.fitting-room-garment { display: flex; align-items: center; gap: 16px; padding: 18px 0; border-top: 1px solid #dcd6cb; border-bottom: 1px solid #dcd6cb; }
-.fitting-room-garment > img { width: 88px; height: 110px; object-fit: contain; border-radius: 5px; background: #e9e3d8; }
+
+.fitting-room-heading h2 { font-size: 30px; font-weight: 500; letter-spacing: -.04em; margin: 0 0 8px; }
+.fitting-room-heading > p { font-size: 14px; color: #777; margin-bottom: 26px; }
+.fitting-preview-label { position: absolute; left: 12px; bottom: 12px; background: #fff; padding: 5px 10px; border-radius: 20px; font-size: 11px; color: #555; }
+.fitting-room-garment { display: flex; align-items: center; gap: 16px; padding: 18px 0; border-top: 1px solid #e5e5e5; border-bottom: 1px solid #e5e5e5; }
+.fitting-room-garment > img { width: 88px; height: auto; max-height: 110px; object-fit: contain; background: transparent; }
 .fitting-room-garment h3 { font-size: 15px; line-height: 1.35; letter-spacing: -.025em; }
-.fitting-room-garment p { color: #807969; font-size: 12px; margin-top: 6px; }
-.fitting-room-guidance { color: #797366; font-size: 12px; line-height: 1.7; margin-top: 22px; max-width: 270px; }
+.fitting-room-garment p { color: #777; font-size: 12px; margin-top: 6px; }
+.fitting-room-guidance { color: #777; font-size: 12px; line-height: 1.7; margin-top: 22px; max-width: 270px; }
 .fitting-room-actions { margin-top: 22px; }
-.fitting-room-start { width: 100%; display: flex; justify-content: space-between; align-items: center; gap: 10px; border-radius: 30px; padding: 15px 20px; font-size: 12px; color: #faf8f2; background: #292c24; transition: background .2s; }
-.fitting-room-start:hover { background: #42473a; }
+.fitting-room-start { width: 100%; display: flex; justify-content: space-between; align-items: center; gap: 10px; border-radius: 30px; padding: 15px 20px; font-size: 12px; color: #fff; background: #191919; transition: background .2s; }
+.fitting-room-start:hover { background: #333; }
 .fitting-room-start:disabled { opacity: .4; cursor: not-allowed; }
-.fitting-room-upload { margin-top: 13px; text-align: center; font-size: 11px; color: #736e62; }
+.fitting-room-upload { margin-top: 13px; text-align: center; font-size: 11px; color: #777; }
 .fitting-room-upload label, .fitting-room-upload button { cursor: pointer; text-decoration: underline; text-underline-offset: 4px; }
 .fitting-room-upload label:focus-within { outline: 2px solid #81704d; outline-offset: 5px; }
-.fitting-room-notice { margin-top: 24px; color: #898276; font-size: 10px; line-height: 1.65; }
+.fitting-room-notice { margin-top: 24px; color: #888; font-size: 10px; line-height: 1.65; }
 @media (max-width: 700px) {
   .fitting-room { width: calc(100% - 20px); max-height: calc(100dvh - 20px); border-radius: 15px; }
   .fitting-room-header { padding: 16px 18px 0; }
   .fitting-room-header > img { width: 112px; }
   .fitting-room-layout { grid-template-columns: 1fr; gap: 22px; padding: 6px 24px 24px; }
   .fitting-room-stage { padding: 8px 12px 0; }
-  .fitting-mirror { height: min(48dvh,460px); width: auto; max-width: 100%; max-height: none; }
+  .fitting-mirror { height: min(38dvh,360px); width: auto; max-width: 100%; max-height: none; }
   .fitting-room-status { margin-top: 14px; }
-  .fitting-room-heading { display: none; }
+  .fitting-room-heading h2 { font-size: 24px; }
+  .fitting-room-heading > p { margin-bottom: 16px; }
   .fitting-room-garment { padding: 12px 0; gap: 14px; }
-  .fitting-room-garment > img { width: 58px; height: 68px; }
+  .fitting-room-garment > img { width: 58px; height: auto; max-height: 68px; }
   .fitting-room-guidance { margin-top: 12px; max-width: none; }
   .fitting-room-actions { margin-top: 14px; }
   .fitting-room-notice { margin-top: 16px; }
@@ -346,3 +349,38 @@ html.lenis body {
   .video-showcase-frame > div:last-child > a { display: flex; width: 135px; }
 }
 
+
+.shop-menu-underline { position: relative; display: inline-block; }
+.shop-menu-underline::after { content: ''; position: absolute; left: 0; bottom: -5px; width: 100%; height: 1px; background: currentColor; transform: scaleX(0); transform-origin: right; transition: transform 240ms ease; }
+.shop-menu-underline:hover::after,
+.shop-menu-underline:focus-visible::after,
+.shop-menu-collection:hover .shop-menu-underline::after,
+.shop-menu-collection:focus-visible .shop-menu-underline::after { transform: scaleX(1); transform-origin: left; }
+@media (prefers-reduced-motion: reduce) {
+  .shop-menu-underline::after { transition: none; }
+}
+
+/* Compact controls retain usable touch areas without crowding the brand. */
+@media (max-width: 809px) {
+  .site-header-row { gap: 8px; }
+  .site-header-actions { gap: 4px; flex-shrink: 0; }
+  .site-header-actions > a:not(.hidden), .site-header-actions > button { min-height: 44px; min-width: 32px; align-items: center; justify-content: center; }
+  .site-header-actions > a:not(.hidden) { display: inline-flex; }
+  .site-header-actions .header-count-badge { top: 4px; right: 0; }
+  .site-header-actions > button > span:not([class*="absolute"]) { max-width: 24px; }
+  input, select, textarea { font-size: 16px; }
+  .fitting-room-close { width: 44px; height: 44px; }
+  .fitting-room-header { position: sticky; top: 0; z-index: 2; background: #fff; padding-bottom: 8px; }
+}
+@media (max-width: 359px) {
+  .site-header-row [aria-label="TRYLIVO home"] { gap: 6px; }
+  .site-header-row [aria-label="TRYLIVO home"] img:last-child { width: 82px; }
+}
+@media (max-height: 550px) and (min-width: 701px) {
+  .fitting-room { max-height: calc(100dvh - 16px); }
+  .fitting-room-header { position: sticky; top: 0; z-index: 2; background: #fff; padding-bottom: 8px; }
+  .fitting-room-close { width: 44px; height: 44px; }
+  .fitting-room-layout { align-items: start; gap: 24px; }
+  .fitting-mirror-idle > img { object-fit: contain; }
+  .fitting-mirror { max-height: none; height: 260px; }
+}

@@ -20,7 +20,7 @@ function CountBadge({ n, light }: { n: number; light: boolean }) {
   return (
     <span
       className={cn(
-        "absolute -top-1 -right-2 grid h-3.5 min-w-3.5 place-items-center rounded-full px-[3px] pb-px text-[10px] leading-[10px] font-normal transition-colors duration-300",
+        "header-count-badge absolute -top-1 -right-2 grid h-3.5 min-w-3.5 place-items-center rounded-full px-[3px] pb-px text-[10px] leading-[10px] font-normal transition-colors duration-300",
         light ? "bg-white text-ink" : "bg-ink text-white",
       )}
     >
@@ -69,7 +69,7 @@ export function Header() {
         )}
         onMouseLeave={() => setShopOpen(false)}
       >
-        <div className="container-site flex h-[60px] items-center justify-between gap-6">
+        <div className="site-header-row container-site flex h-[60px] items-center justify-between gap-6">
           <div className="flex items-center gap-14 lg:gap-[110px]">
             <Logo light={light} />
             <nav className="hidden items-center gap-10 lg:flex" aria-label="Main">
@@ -109,7 +109,7 @@ export function Header() {
             </nav>
           </div>
 
-          <div className="flex items-center gap-[18px] md:gap-[22px] lg:gap-6">
+          <div className="site-header-actions flex items-center gap-[18px] md:gap-[22px] lg:gap-6">
             <Link href="/search" aria-label="Search" className="transition-opacity hover:opacity-60">
               <SearchIcon size={21} />
             </Link>
@@ -132,7 +132,7 @@ export function Header() {
             <LocaleSelect light={light} className="hidden lg:block" />
             <button
               type="button"
-              className="flex h-[15px] w-6 flex-col justify-between lg:hidden"
+              className="flex h-11 w-8 flex-col items-center justify-center gap-3 lg:hidden"
               aria-label="Open menu"
               aria-expanded={mobileOpen}
               onClick={() => setMobileOpen(true)}
@@ -166,7 +166,7 @@ function MegaMenu({ open, onNavigate }: { open: boolean; onNavigate: () => void 
             <ul className="mt-5 flex flex-col gap-[22px]">
               {megaMenu.categories.map((c) => (
                 <li key={c.href}>
-                  <Link href={c.href} onClick={onNavigate} className="text-[16px] leading-[1.2] font-medium tracking-[-0.03em] transition-opacity hover:opacity-60">
+                  <Link href={c.href} onClick={onNavigate} className="shop-menu-underline text-[16px] leading-[1.2] font-medium tracking-[-0.03em]">
                     {c.label}
                   </Link>
                 </li>
@@ -177,13 +177,13 @@ function MegaMenu({ open, onNavigate }: { open: boolean; onNavigate: () => void 
             <p className="text-[14px] leading-none font-medium tracking-[-0.03em] text-muted uppercase">Shop from Collections</p>
             <div className="mt-[18px] grid grid-cols-4 gap-4">
               {megaMenu.collections.map((c) => (
-                <Link key={c.slug} href={`/shop/collection/${c.slug}`} onClick={onNavigate} className="group flex flex-col gap-2 text-center">
+                <Link key={c.slug} href={`/shop/collection/${c.slug}`} onClick={onNavigate} className="shop-menu-collection group flex flex-col gap-2 text-center">
                   <span className="relative block aspect-[156/195] overflow-hidden rounded-lg bg-[#f5f5f5]">
                     <span className={cn("absolute inset-x-0 bottom-0", c.slug === "best-sellers" ? "top-0" : "top-1.5")}>
                       <Image src={c.image} alt="" fill sizes="156px" className="object-cover object-top" />
                     </span>
                   </span>
-                  <span className="text-[15px] leading-[1.1]">{c.label}</span>
+                  <span className="shop-menu-underline self-center text-[15px] leading-[1.1]">{c.label}</span>
                 </Link>
               ))}
             </div>
